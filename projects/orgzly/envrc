@@ -1,0 +1,5 @@
+# Proprietary stuffs
+export NIXPKGS_ALLOW_UNFREE=1
+export NIXPKGS_ACCEPT_ANDROID_SDK_LICENSE=1
+
+use nix
